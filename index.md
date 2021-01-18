@@ -48,7 +48,8 @@
   - [javaweb入门笔记(5)-cookie和session.md](/blogs/javaweb/javaweb入门笔记(5)-cookie和session.md)
   - [javaweb入门笔记(6)-JSP技术.md](/blogs/javaweb/javaweb入门笔记(6)-JSP技术.md)
 
-
+- [linux](/linux/)
+ -[服务器上Mysql安装教程](/linux/应用安装/mysql/mysql.md)
 -----
 
 
