@@ -77,21 +77,3 @@
 * [ ] IO 部分使用模块 java-io
 * [x] Java 虚拟机相关部分使用模块 java-jvm(2017.3.20 完成雏形)
 * [x] Java 8 新特性使用模块 java8(2017.3.29 完成)
-
-
------
-
-# 联系作者
-
-- [Brian's Personal Website](http://brianway.github.io/)
-- [CSDN](http://blog.csdn.net/h3243212/)
-- [oschina](http://my.oschina.net/brianway)
-
-
-Email: weichuyang@163.com
-
------
-
-# Lisence
-
-Lisenced under [Apache 2.0 lisence](http://opensource.org/licenses/Apache-2.0)
