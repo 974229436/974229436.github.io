@@ -26,12 +26,6 @@
 - [java8](/java8): Java 8 模块的源码
 
 
-# 博客文档
-
-如果你只是单纯要阅读的话，建议移步 CSDN 或者 oschina 上观看，访问速度快很多：
-
->* CSDN:[我的java&javaweb学习笔记(汇总)](http://blog.csdn.net/h3243212/article/details/50659471)
->* oschina:[我的java&javaweb学习笔记(汇总)](http://my.oschina.net/brianway/blog/614355)
 
 
 **博客目录**
@@ -58,12 +52,7 @@
 -----
 
 
-## 赞助
 
-如果您觉得该项目对您有帮助，请扫描下方二维码对我进行鼓励，以便我更好的维护和更新，谢谢支持！
-
-![支付宝](http://brianway.github.io/assets/images/alipay_small.png)
-![微信](http://brianway.github.io/assets/images/wechatpay_small.png)
 
 
 # TODO
